@@ -1,0 +1,11 @@
+{
+  "name": "projeto-iniciais",
+  "version": "1.0.0",
+  "description": "projetos iniciais usando JavaScript",
+  "main": "CharacterCounter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Galdino",
+  "license": "ISC"
+}
