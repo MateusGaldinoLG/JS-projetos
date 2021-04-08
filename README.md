@@ -1,3 +1,3 @@
 # JS-projetos
-projetos usando Javascript, node, etc
+projetos pequenos ou testes de funcionalidades usando Javascript, node, etc
 
