@@ -1,2 +1,3 @@
 # JS-projetos
-projetos usando Javascript
+projetos usando Javascript, node, etc
+
